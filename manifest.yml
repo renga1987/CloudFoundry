@@ -1,0 +1,4 @@
+name: CFTestApp12
+path: target/cfdemo-0.0.1-SNAPSHOT.jar 
+buildpack: https://github.com/cloudfoundry/java-buildpack.git
+memory: 1G
